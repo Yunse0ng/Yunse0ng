@@ -5,7 +5,7 @@ I'm [Yun](https://devyun.kro.kr) (Jeong Yunseong)**
 \
 I'm 19 Junior Backend Developer
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Yunseong-dev-git&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=Yunse0ng-git&style=flat-square)
 <br>
 
 ### 🛠️ Skills
@@ -26,7 +26,7 @@ I'm 19 Junior Backend Developer
 
 <br/>
 <div style="display: flex; align-items: center;">
-   <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=08j3c7&show_icons=true&theme=light" />
-   <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08j3c7&layout=compact&theme=light" />
+   <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=Yunse0ng&show_icons=true&theme=light" />
+   <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunse0ng&layout=compact&theme=light" />
 </div>
 
