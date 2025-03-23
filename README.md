@@ -3,7 +3,7 @@
 I'm [Yun](https://devyun.kro.kr) (Jeong Yunseong)**
 \
 \
-I'm 18 Junior Backend Developer
+I'm 19 Junior Backend Developer
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Yunseong-dev-git&style=flat-square)
 <br>
